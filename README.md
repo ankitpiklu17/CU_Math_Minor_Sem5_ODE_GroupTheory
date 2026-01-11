@@ -1,4 +1,4 @@
-📘 Lecture Notes Repository
+##📘 Lecture Notes Repository
 
 This repository contains my lecture notes on Group Theory and Ordinary Differential Equations (ODE) for the course taught to Semester V students of the Mathematics Minor program, University of Calcutta.
 
