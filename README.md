@@ -1,12 +1,12 @@
-📘 Lecture Notes Repository
+## **📘 Lecture Notes Repository**
 
 This repository contains my lecture notes on Group Theory and Ordinary Differential Equations (ODE) for the course taught to Semester V students of the Mathematics Minor program, University of Calcutta.
 
-🔹 Group Theory
+**🔹 Group Theory**
 
 The Group Theory section covers the topics discussed in class and is intended to help students understand core algebraic structures through definitions, theorems, and examples.
 
-🔹 Ordinary Differential Equations (ODE)
+**🔹 Ordinary Differential Equations (ODE)**
 
 This section contains selected lecture notes on ODE.
 
